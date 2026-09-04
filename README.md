@@ -51,4 +51,4 @@ Downloads/
 ├── Archives/
 │ └── project.zip
 └── Scripts/
-└── script.sh# File_organizer
+└── script.sh
